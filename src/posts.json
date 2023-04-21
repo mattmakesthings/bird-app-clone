@@ -1,0 +1,17 @@
+{
+    "1": {
+        "post": "hello from mwitter!",
+        "poster": "Matt",
+        "likes": 20
+    },
+    "2": {
+        "post": "hello from mwitter!",
+        "poster": "Matt",
+        "likes": 20
+    },
+    "3": {
+        "post": "hello from mwitter!",
+        "poster": "Matt",
+        "likes": 20
+    }
+}

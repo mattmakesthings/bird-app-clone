@@ -1,0 +1,6 @@
+.top_level_container {
+    width: 100%;
+    border-radius: 25px;
+    background-color: #fff;
+    overflow: hidden;
+}
